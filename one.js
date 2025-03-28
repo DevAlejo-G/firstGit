@@ -1,1 +1,2 @@
-console.log('First hello git!')
+const fullName = 'Jose Alejandro Gonzalez Corra'
+console.log(fullName)
